@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cjbristol
 - 👀 I’m interested in facilitating the use of open source
-in public and private organizations, and government. 
+in commercial companies and government. 
 - 📫 How to reach me craig.bristol@gmail.com
 
 <!---
